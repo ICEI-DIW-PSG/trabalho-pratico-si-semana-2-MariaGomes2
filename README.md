@@ -8,4 +8,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![print](public/Imagens/Captura de Tela (2).png)
+![print](public/Imagens/Captura%20de%20Tela%20(2).png)
